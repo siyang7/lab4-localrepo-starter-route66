@@ -18,7 +18,7 @@ class Must extends Application
     /**
      * Echo Controller
      */
-    public function index()
+    public function wehave()
     {
         // Show index 5
         $this->show(5);
